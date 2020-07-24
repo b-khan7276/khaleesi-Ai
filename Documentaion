@@ -1,0 +1,8 @@
+ *To code khaleesi we have to import some of the modules  the first one is pyttsx3
+
+
+ *pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative
+libraries, it works offline, and is compatible with both Python 2 and 3
+
+*now i will import speech_recognition as sr so that we can use the short word
+ *we have to sirft inall it using pip
